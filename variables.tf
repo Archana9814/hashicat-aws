@@ -7,7 +7,7 @@
 
 variable "prefix" {
   description = "This prefix will be included in the name of most resources."
-  default     = "archanabenarora"
+  default     = "bucket_prefix"
 }
 
 variable "region" {
